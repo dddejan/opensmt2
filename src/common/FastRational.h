@@ -7,6 +7,7 @@ Copyright (c) 2008, 2009 Centre national de la recherche scientifique (CNRS)
 #ifndef FAST_RATIONALS_H
 #define FAST_RATIONALS_H
 #include <string>
+#include <cstddef>
 #include <gmpxx.h>
 #include <cassert>
 #include <climits>
